@@ -1,0 +1,84 @@
+/* CSS Document */
+
+
+body, table {
+	font-family:Verdana, Geneva, sans-serif;	
+	font-size:12px;
+	}
+	
+	th, td {
+		text-align:left;
+		padding:0 5px;
+		}
+
+#add_rec {
+	padding:10px;
+	background:#3C3;
+	width:100px;
+	margin-bottom:10px;
+	text-align:center;
+	float:left;
+	margin-right:10px;
+	}
+	#add_rec a {
+	color:#fff;	
+	}
+	#add_rec:hover {
+		background-color:#F93;
+	}
+	
+#btns {
+	float:left;
+	margin-left:10px;	
+	}
+	#ebtn {
+		width:100px;
+		height:35px;
+		margin-right:10px;
+		background-color:#39F;
+		color:#fff;
+		border:0;
+		}
+	#dbtn {
+		width:100px;
+		height:35px;
+		margin-right:10px;
+		background-color:#F00;
+		color:#fff;
+		border:0;	
+		}
+	#abtn {
+		width:100px;
+		height:35px;
+		margin-right:10px;
+		background-color:#90C;
+		color:#fff;
+		border:0;	
+		}
+
+#backbtn {
+		padding:10px;
+	background:#C60;
+	width:100px;
+	margin-bottom:10px;
+	text-align:center;
+	float:left;
+		}
+		#backbtn a{
+		color:#fff;
+		}
+		
+#gen_rec {
+	padding:10px;
+	background:#3C3;
+	width:100px;
+	text-align:center;
+	float:left;
+	margin-right:10px;
+	}
+
+.textbox {
+	border: 0 0 1px 0;
+	border-color:#666;
+	}
+
